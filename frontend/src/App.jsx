@@ -242,12 +242,12 @@ export default function App() {
           </button>
           <div>
             <div className="flex items-center gap-2">
-              <h1 className="font-bold text-slate-900 text-sm tracking-tight">DataTalk</h1>
+              <h1 className="font-bold text-slate-900 text-sm tracking-tight">InsightGrid</h1>
               <span className="text-[10px] bg-slate-100 text-slate-600 px-1.5 py-0.2 rounded font-mono">
                 v0.2.0
               </span>
             </div>
-            <p className="text-[11px] text-slate-400">Conversational Text-to-SQL + RAG Schema Analytics</p>
+            <p className="text-[11px] text-slate-400">Conversational Text-to-SQL + RAG | Developed by Dev Dogra</p>
           </div>
         </div>
 

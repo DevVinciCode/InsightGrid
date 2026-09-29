@@ -1,9 +1,8 @@
-# DataTalk — Conversational Text-to-SQL + RAG + Visual Analytics
+# InsightGrid
+Natural Language → SQL → Data Analysis & Visualization
 
-A working prototype: natural-language question → intent understanding →
-RAG-based schema retrieval → text-to-SQL → multi-level validation → safe
-execution → result verification → visualization planning → conversational
-follow-ups.
+Developed by Dev Dogra
+GitHub: [DevVinciCode](https://github.com/DevVinciCode)
 
 **Status: Stage 1 + 2 of the design doc are fully implemented and tested.**
 Stage 3–6 (uncertainty-gated clarification, database probing, Power BI,
@@ -147,3 +146,9 @@ Stage 3/5 features are scaffolded but not exercised by real traffic yet.
 ## Research contribution, novelty classification, suggested experiments
 
 See `docs/research_direction.md`.
+
+## Author
+
+Developed by Dev Dogra.
+
+This repository represents my original project work and implementation.
